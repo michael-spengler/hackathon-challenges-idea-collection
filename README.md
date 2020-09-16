@@ -20,3 +20,8 @@ Pick any Nest.land module you like and leave it a bit better than you found it b
 Implement an independent web harvester / index as a permaapp deployed in the context of http://arweaveapps.com/
 Background info: https://github.com/denoland/deno_registry2/issues/128
 
+
+# Why shall enterprises support regular open source deno hackathons?
+1. Provide opportunities for employees for efficient and fun mutual education on promising new technologies
+2. Attract potential future employees 
+
