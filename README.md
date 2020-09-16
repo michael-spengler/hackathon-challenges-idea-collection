@@ -14,6 +14,8 @@ Background info: https://nest.land/package/nlp
 Pick any Nest.land module you like and leave it a bit better than you found it by raising a PR
 [Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 
+... would benefit from an option to filter for modules with github link provided in egg.json 
+
 ## Deno Module Marketplace as Perma App
 Implement an independent web harvester / index as a permaapp deployed in the context of http://arweaveapps.com/
 Background info: https://github.com/denoland/deno_registry2/issues/128
