@@ -5,7 +5,7 @@ Complete / leverage https://nest.land/package/web3
 Background info: https://github.com/useverto/verto/issues/74 
 
 ## Nest.land & Profit Sharing Communities
-Background info - for Enterprise Context (might be helpful as an additionsl "go-to-market" experiment): https://github.com/michael-spengler/profit-sharing-communities
+Background info - for Enterprise Context (might be helpful as an additional "go-to-market" experiment): https://github.com/michael-spengler/profit-sharing-communities
 
 ## Natural Language Processing (NLP)
 Background info: https://nest.land/package/nlp
