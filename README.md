@@ -21,7 +21,8 @@ Implement an independent web harvester / index as a permaapp deployed in the con
 Background info: https://github.com/denoland/deno_registry2/issues/128
 
 
-# Why shall enterprises support regular open source deno hackathons?
-1. Provide opportunities for employees for efficient and fun mutual education on promising new technologies
+## Enterprises
+**Why shall "classical" enterprises support regular open source deno hackathons?**
+1. Provide opportunities for employees for efficient and fun mutual education for promising new technologies
 2. Attract potential future employees 
 
