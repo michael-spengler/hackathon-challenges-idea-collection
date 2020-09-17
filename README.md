@@ -1,13 +1,16 @@
 # The Plan
 ## TGIF Hackathons - Dry Run on October 9th 2020
-On October 9th we would like to try a new concept for inspiring and successful regular collaboration - **TGIF Hackathons**  
+On October 9th we would like to try a new concept for inspiring and successful regular collaboration - **TGIF Hackathons**   
 
 If it turns out to be a fun and successful event, we will schedule **TGIF Hackathons** on a regular basis.
 
-We will organize this event via the discord server of the https://nest.land/ community
+We will organize this event via the discord server of the https://nest.land/ community  
 Feel free to join via the following invitation link: https://discord.gg/hYUsX3H
 
-To start small we decided to start with a maximum of 20 contributors. Everyone who has published at least one Deno module is invited to join. 
+To start small we decided to start with a maximum of 20 contributors.  
+Everyone who has published at least one Deno module is invited try registering among the first 20 people :)  
+
+We're looking forward to meet you and to develop something awesome together.
 
 
 # Topic Proposals
