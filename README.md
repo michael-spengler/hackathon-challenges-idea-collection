@@ -11,6 +11,8 @@ To start small we decided to start with a maximum of 20 contributors.
 Everyone who has published at least one Deno module is invited to try registering among the first 20 people :)  
 If you did not publish any Deno module yet, just go for it and publish a new, useful module on https://nest.land/ and on https://deno.land/x.
 
+The event will take place as an online event starting at **1pm [german time](https://www.timeanddate.com/worldclock/germany/berlin)**.  
+
 We're looking forward to meet you and to develop something awesome together.
 
 
