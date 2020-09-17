@@ -8,7 +8,7 @@ We will organize this event via the discord server of the https://nest.land/ com
 Feel free to join via the following invitation link: https://discord.gg/hYUsX3H
 
 To start small we decided to start with a maximum of 20 contributors.  
-Everyone who has published at least one Deno module is invited try registering among the first 20 people :)  
+Everyone who has published at least one Deno module is invited to try registering among the first 20 people :)  
 
 We're looking forward to meet you and to develop something awesome together.
 
