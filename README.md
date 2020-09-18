@@ -1,9 +1,9 @@
 # The Plan
 
-## Nerdy Friday Hackathons - Dry Run on October 9th 2020
-On October 9th we would like to try a new concept for inspiring and successful regular collaboration - **Nerdy Friday Hackathons**   
+## Deno Hackathons - Dry Run on October 9th 2020
+On October 9th we would like to try a new concept for inspiring and successful regular collaboration - **Deno Hackathons**   
 
-If it turns out to be a fun and successful event, we will schedule **Nerdy Friday Hackathons** on a regular basis.
+If it turns out to be a fun and successful event, we will schedule **Deno Hackathons** on a regular basis.
 
 We will organize this event via the discord server of the https://nest.land/ community  
 
