@@ -7,9 +7,7 @@ If it turns out to be a fun and successful event, we will schedule **Deno Hackat
 
 We will organize this event via the discord server of the https://nest.land/ community  
 
-Feel free to join via the following invitation link: https://discord.gg/hYUsX3H
-
-To start small we decided to start with a maximum of 20 contributors.  
+Feel free to join via the following invitation link: https://discord.gg/hYUsX3H  
 
 Everyone who has published at least one Deno module is invited to try registering among the first 20 people :)  
 
