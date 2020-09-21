@@ -49,6 +49,7 @@ Background info: https://github.com/denoland/deno_registry2/issues/128
 2. Attract potential future employees 
 
 # Register
-Infos on where to register follow during the next days.
+Registration details follow during the next days.  
+
 ![deno](https://user-images.githubusercontent.com/43786652/93740656-3a2aef00-fbeb-11ea-9980-a3e20fef5745.jpg)
 
