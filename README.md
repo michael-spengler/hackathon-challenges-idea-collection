@@ -50,6 +50,10 @@ Background info: https://github.com/denoland/deno_registry2/issues/128
 1. Provide opportunities for employees for efficient and fun mutual education for promising new technologies
 2. Attract potential future employees 
 
+# Ideas 
+Collaborate in the context of [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
+
+
 # Register
 Registration details follow during the next days.  
 
