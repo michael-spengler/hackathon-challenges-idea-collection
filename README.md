@@ -4,8 +4,8 @@
 1. 1pm german time: Intro (Tate, Sam, Cedrik?, Michael)
 2. All you can code
 
-## Hackathons - Dry Run on October 9th 2020
-On October 9th we would like to try a new concept for inspiring and successful regular collaboration - **Deno Hackathons**   
+## Hackathons - Dry Run on October 23rd 2020
+On October 23rd we would like to try a new concept for inspiring and successful regular collaboration - **Deno Hackathons**   
 
 If it turns out to be a fun and successful event, we will schedule **Deno Hackathons** on a regular basis.
 
