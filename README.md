@@ -1,10 +1,11 @@
-# The Plan
+
 
 ## Agenda
 1. 1 PM German Time: SAP Employee development kickoff
 2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
   - Tate, Ryan, Sam, Michael
 3. Start hacktoberfesting!
+
 
 ## Hacktoberfest Hackathon - October 23rd 2020
 On October 23rd, we would like to try a new concept for inspiring and successful regular collaboration - **Deno Module Hackathons**
@@ -71,3 +72,10 @@ Registration details follow during the next days.
 
 ![deno](https://user-images.githubusercontent.com/43786652/93740656-3a2aef00-fbeb-11ea-9980-a3e20fef5745.jpg)
 
+## Potential channels for announcements
+1. https://dev.to/
+2. Discord (nest.land, arweave, deno, communities.xyz)
+3. https://devpost.com/
+4. SAP Open Source Slack Channel
+5. https://hacktoberfest.digitalocean.com/
+6. https://gitcoin.co/
