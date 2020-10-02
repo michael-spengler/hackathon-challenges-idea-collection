@@ -1,8 +1,10 @@
 # The Plan
 
 ## Agenda
-1. 1pm german time: Intro (Tate, Sam, Cedrik?, Michael)
-2. All you can code
+1. 1 PM German Time: SAP Employee development kickoff
+2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
+  - Tate, Ryan, Sam, Michael
+3. Start hacktoberfesting!
 
 ## Hackathons - Dry Run on October 23rd 2020
 On October 23rd we would like to try a new concept for inspiring and successful regular collaboration - **Deno Hackathons**   
