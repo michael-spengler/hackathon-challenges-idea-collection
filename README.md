@@ -1,60 +1,70 @@
 
-## Agenda Proposal
-1. 1pm german time: Intro (Tate, Sam, Cedrik?, Michael)
-2. All you can code
 
-## Hackathons - Dry Run on October 23rd 2020
-On October 23rd we would like to try a new concept for inspiring and successful regular collaboration - **Deno Hackathons**   
+## Agenda
+1. 1 PM German Time: SAP Employee development kickoff
+2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
+  - Tate, Ryan, Sam, Michael
+3. Start hacktoberfesting!
+
+
+## Hacktoberfest Hackathon - October 23rd 2020
+On October 23rd, we would like to try a new concept for inspiring and successful regular collaboration - **Deno Module Hackathons**
 
 If it turns out to be a fun and successful event, we will schedule **Deno Hackathons** on a regular basis.
 
-We will organize this event via the discord server of the https://nest.land/ community  
+We will organize this event via the [Discord Server](https://discord.gg/hYUsX3H) of the [Nest.land Community](https://nest.land/)
 
 Feel free to join via the following invitation link: https://discord.gg/hYUsX3H  
 
-If you did not publish any Deno module yet, just go for it and publish a new, useful module on https://nest.land/ and on https://deno.land/x.
+If you have not published a Deno module yet, build and publish one on https://nest.land/ and on https://deno.land/x.
 
-The event will take place as an online event starting at **1pm [german time](https://www.timeanddate.com/worldclock/germany/berlin)**.  
+The kickoff event will take place as an online event starting at **12 PM [EST] (https://www.timeanddate.com/worldclock/usa/new-york)**.  
 
-We're looking forward to meet you and to develop something awesome together.
+We're looking forward to meeting you and developing something **awesome** together.
 
 
 # Topic Proposals
 
-## Ethereum & Arweave
-Complete / leverage https://nest.land/package/web3 
-Background info: https://github.com/useverto/verto/issues/74 
+## Build a Deno module
+Complete a Deno module and publish it to Nest.land **and** Deno.land/x. 
 
-## Peer 2 Peer Enterprise
-Background info see: https://github.com/gitcoin-enterprise/peer-to-peer-enterprise . 
+Extra points will be awarded to modules that meet the following criteria:
+- Complete or leverage [web3](https://nest.land/package/web3)
+- Complete or leverage [nlp](https://nest.land/package/nlp)
+- Build a canvas module for Deno
 
-## Public Fund for Arweave Microtransactions
-This could be used e.g. in the context of: https://github.com/fabianriewe/github-action
-
-## Nest.land & Profit Sharing Communities
-Background info - for Enterprise Context (might be helpful as an additional "go-to-market" / "community growing" experiment): https://github.com/michael-spengler/profit-sharing-communities
-
-## Natural Language Processing (NLP)
-Background info: https://nest.land/package/nlp
-
-## Boy Scout Tour(nament) :)
-Pick any Nest.land module you like and leave it a bit better than you found it by raising a PR
+## Boy Scout Tour (nament) :)
+Pick any Nest.land or Deno.land/x module you like and leave it in better condition than you found it by raising a **beneficial** PR on its repository.
 [Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 
-... would benefit from an option to filter for modules with github link provided in egg.json 
+## Start your own fully decentralized Profit Sharing Community
+For Enterprise Context: Might be helpful as an additional "go-to-market" / "community growing" experiment): https://github.com/michael-spengler/profit-sharing-communities
 
-## Deno Module Marketplace as Perma App
-Implement an independent web harvester / index as a permaapp deployed in the context of http://arweaveapps.com/
-Background info: https://github.com/denoland/deno_registry2/issues/128
+## Peer 2 Peer Enterprise
+Background info see: https://github.com/gitcoin-enterprise/peer-to-peer-enterprise 
 
+
+# Rules
+
+## Build a Deno module
+- You **CAN** submit a module that you already published
+- You must submit a PR conforming to the template provided in the [Nest.land Hacktoberfest 2020 Repository](https://github.com/nestdotland/hacktoberfest-modules-2020)
+- The module must be published to Nest.land and Deno.land/x
+  - If you are building a module that has been accepted as a part of Deno's Standard Library, you do not need to additionally publish it to Nest.land, as we run an [STD mirror](https://nest.land/std)
+- The module must be created originally by you or your team
+- The module must not contain malicious or inappropriate files
+
+## Boy Scout Tour
+- You must submit a PR conforming to the template provided in the [Nest.land Hacktoberfest 2020 Repository](https://github.com/nestdotland/hacktoberfest-modules-2020)
+- Your contributions must be sufficiently beneficial to the module
+- Your PR to the module repository must be accepted and merged
+
+> The Nest.land and Deno.land Organizations reserve the right to disqualify user or module for any reason.
 
 # Enterprises
 **Why shall "classical" enterprises support regular open source deno hackathons?**
 1. Provide opportunities for employees for efficient and fun mutual education for promising new technologies
 2. Attract potential future employees 
-
-# Ideas 
-Collaborate in the context of [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 
 
 # Register
