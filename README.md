@@ -1,6 +1,5 @@
-# The Plan
 
-## Agenda
+## Agenda Proposal
 1. 1pm german time: Intro (Tate, Sam, Cedrik?, Michael)
 2. All you can code
 
@@ -63,3 +62,9 @@ Registration details follow during the next days.
 
 ![deno](https://user-images.githubusercontent.com/43786652/93740656-3a2aef00-fbeb-11ea-9980-a3e20fef5745.jpg)
 
+## Potential channels for announcements
+1. https://dev.to/
+2. Discord (Tate, Sam, Ryan)
+3. https://devpost.com/
+4. SAP Open Source Slack Channel
+5. https://hacktoberfest.digitalocean.com/
