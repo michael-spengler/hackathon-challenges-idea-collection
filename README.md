@@ -64,7 +64,8 @@ Registration details follow during the next days.
 
 ## Potential channels for announcements
 1. https://dev.to/
-2. Discord (Tate, Sam, Ryan)
+2. Discord (nest.land, arweave, deno, communities.xyz)
 3. https://devpost.com/
 4. SAP Open Source Slack Channel
 5. https://hacktoberfest.digitalocean.com/
+6. https://gitcoin.co/
