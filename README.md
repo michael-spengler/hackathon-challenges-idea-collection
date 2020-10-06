@@ -1,8 +1,8 @@
 
 
 ## Agenda
-1. 1 PM German Time: SAP Employee development kickoff
-2. 12 PM EST: Hacktoberfest Event - Deno & Profit Sharing Communities
+1. 1 PM German Time: SAP Employee development kickoff (11am UTC)
+2. 12 PM EDT: Hacktoberfest Event - Deno & Profit Sharing Communities (4pm UTC)
   - Tate, Ryan, Sam, Michael
 3. Start hacktoberfesting!
 
@@ -18,7 +18,7 @@ Feel free to join via the following invitation link: https://discord.gg/hYUsX3H
 
 If you have not published a Deno module yet, build and publish one on https://nest.land/ and on https://deno.land/x.
 
-The kickoff event will take place as an online event starting at **12 PM [EST] (https://www.timeanddate.com/worldclock/usa/new-york)**.  
+The kickoff event will take place as an online event starting at **12 PM [EDT] (4pm UTC) (https://www.timeanddate.com/worldclock/usa/new-york)**.  
 
 We're looking forward to meeting you and developing something **awesome** together.
 
